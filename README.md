@@ -1,6 +1,6 @@
 <h2>Sobre mim</h2>
 <hr>
-<p></p>Olá! Me chamo Júlia, tenho 16 anos e decicidi ingressar no mundo da programação. Estou iniciando Fronted nas linguagens de marcação HTML5 e CSS3 e futuramente na linguagem de programação JavaScript.</p>
+<p></p>Olá! Me chamo Júlia, tenho 16 anos e decicidi ingressar no mundo da programação. Estou iniciando Frontend nas linguagens de marcação HTML5 e CSS3 e futuramente na linguagem de programação JavaScript.</p>
 <p>
   <strong>🌐 Frontend</strong>
 </p>
